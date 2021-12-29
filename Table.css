@@ -1,0 +1,15 @@
+table,th,td{
+    border: 1px solid black;
+}
+.container{
+    display: grid;
+    justify-content: center;
+    grid-row-gap: 20px;
+}
+button{
+    width: 80px;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 0 auto;
+}
